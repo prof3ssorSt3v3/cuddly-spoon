@@ -84,3 +84,5 @@ const rawData = [
     pageCount: 224,
   },
 ];
+
+export { rawData };
