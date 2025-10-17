@@ -1,0 +1,13 @@
+:root {
+  --ff: 'Open Sans', sans-serif;
+  --dark: hsl(300, 60%, 20%);
+  --light: hsl(300, 80%, 80%);
+}
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: var();
+  color: var(--dark);
+}
