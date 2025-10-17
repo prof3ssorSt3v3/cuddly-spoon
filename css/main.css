@@ -8,6 +8,6 @@
 }
 html,
 body {
-  font-family: var();
+  font-family: var(--ff);
   color: var(--dark);
 }
